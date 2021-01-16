@@ -13,7 +13,16 @@ def generate_schedule(array: list, loop_num: int = 1, home_away: bool = True):
         logging.exception("loop_num should not be less than 1")
         return None
     elif len(array) == 2:
-        return array
+        game_schedule = []
+        round_num = 1
+        while round_num <= loop_num:
+            if round_num % 2 == 0 or home_away is False:
+                game_schedule.append((round_num, [(array[0], array[1])]))
+            else:
+                game_schedule.append((round_num, [(array[1], array[0])]))
+            round_num += 1
+
+        return game_schedule
 
     if len(array) % 2 != 0:
         array.append('Empty Team')
@@ -24,8 +33,6 @@ def generate_schedule(array: list, loop_num: int = 1, home_away: bool = True):
     right_team = array[math.ceil(total_num / 2):]
     game_schedule = []
     round_num = 1
-    print(total_num, left_team)
-    print(right_team)
     while round_num <= one_round_num:
         signal = random.randint(0, 9)  # decide the home and away
         if signal % 2 == 0:
@@ -79,7 +86,7 @@ def output_schedule(schedule_arr: list, output_mode: str = "csv", output_path: s
                         continue
                     writer.writerow([round_num, detail_game[0], detail_game[1]])
     else:
-        print("Illegal output mode")
+        logging.exception("Illegal output mode")
 
 
 if __name__ == "__main__":

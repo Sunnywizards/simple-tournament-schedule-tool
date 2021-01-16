@@ -1,14 +1,14 @@
 ﻿Round,Home Team,Away Team
-1,Arsenal,Liverpool
-1,Aston Villa,Manchaster City
-1,Brighton,Manchaster United
-1,Burnley,Newcastle United
-1,Chelsea,Sheffield United
-1,Crystal Palace,Southampton
-1,Everton,Tottenham Spurs
-1,Fulham,West Bromwich
-1,Leeds United,Westham United
-1,Leicester City,Wolverhampton
+1,Liverpool,Arsenal
+1,Manchaster City,Aston Villa
+1,Manchaster United,Brighton
+1,Newcastle United,Burnley
+1,Sheffield United,Chelsea
+1,Southampton,Crystal Palace
+1,Tottenham Spurs,Everton
+1,West Bromwich,Fulham
+1,Westham United,Leeds United
+1,Wolverhampton,Leicester City
 2,Aston Villa,Arsenal
 2,Liverpool,Brighton
 2,Manchaster City,Burnley
@@ -19,16 +19,16 @@
 2,Tottenham Spurs,Leeds United
 2,West Bromwich,Leicester City
 2,Westham United,Wolverhampton
-3,Brighton,Arsenal
-3,Aston Villa,Burnley
-3,Liverpool,Chelsea
-3,Manchaster City,Crystal Palace
-3,Manchaster United,Everton
-3,Newcastle United,Fulham
-3,Sheffield United,Leeds United
-3,Southampton,Leicester City
-3,Tottenham Spurs,Wolverhampton
-3,West Bromwich,Westham United
+3,Arsenal,Brighton
+3,Burnley,Aston Villa
+3,Chelsea,Liverpool
+3,Crystal Palace,Manchaster City
+3,Everton,Manchaster United
+3,Fulham,Newcastle United
+3,Leeds United,Sheffield United
+3,Leicester City,Southampton
+3,Wolverhampton,Tottenham Spurs
+3,Westham United,West Bromwich
 4,Arsenal,Burnley
 4,Chelsea,Brighton
 4,Crystal Palace,Aston Villa
@@ -49,66 +49,66 @@
 5,Newcastle United,Westham United
 5,Sheffield United,West Bromwich
 5,Southampton,Tottenham Spurs
-6,Crystal Palace,Arsenal
-6,Chelsea,Everton
-6,Burnley,Fulham
-6,Brighton,Leeds United
-6,Aston Villa,Leicester City
-6,Liverpool,Wolverhampton
-6,Manchaster City,Westham United
-6,Manchaster United,West Bromwich
-6,Newcastle United,Tottenham Spurs
-6,Sheffield United,Southampton
-7,Arsenal,Everton
-7,Fulham,Crystal Palace
-7,Leeds United,Chelsea
-7,Leicester City,Burnley
-7,Wolverhampton,Brighton
-7,Westham United,Aston Villa
-7,West Bromwich,Liverpool
-7,Tottenham Spurs,Manchaster City
-7,Southampton,Manchaster United
-7,Sheffield United,Newcastle United
-8,Fulham,Arsenal
-8,Everton,Leeds United
-8,Crystal Palace,Leicester City
-8,Chelsea,Wolverhampton
-8,Burnley,Westham United
-8,Brighton,West Bromwich
-8,Aston Villa,Tottenham Spurs
-8,Liverpool,Southampton
-8,Manchaster City,Sheffield United
-8,Manchaster United,Newcastle United
-9,Arsenal,Leeds United
-9,Leicester City,Fulham
-9,Wolverhampton,Everton
-9,Westham United,Crystal Palace
-9,West Bromwich,Chelsea
-9,Tottenham Spurs,Burnley
-9,Southampton,Brighton
-9,Sheffield United,Aston Villa
-9,Newcastle United,Liverpool
-9,Manchaster United,Manchaster City
-10,Arsenal,Leicester City
-10,Wolverhampton,Leeds United
-10,Westham United,Fulham
-10,West Bromwich,Everton
-10,Tottenham Spurs,Crystal Palace
-10,Southampton,Chelsea
-10,Sheffield United,Burnley
-10,Newcastle United,Brighton
-10,Manchaster United,Aston Villa
-10,Manchaster City,Liverpool
-11,Arsenal,Wolverhampton
-11,Westham United,Leicester City
-11,West Bromwich,Leeds United
-11,Tottenham Spurs,Fulham
-11,Southampton,Everton
-11,Sheffield United,Crystal Palace
-11,Newcastle United,Chelsea
-11,Manchaster United,Burnley
-11,Manchaster City,Brighton
-11,Liverpool,Aston Villa
+6,Arsenal,Crystal Palace
+6,Everton,Chelsea
+6,Fulham,Burnley
+6,Leeds United,Brighton
+6,Leicester City,Aston Villa
+6,Wolverhampton,Liverpool
+6,Westham United,Manchaster City
+6,West Bromwich,Manchaster United
+6,Tottenham Spurs,Newcastle United
+6,Southampton,Sheffield United
+7,Everton,Arsenal
+7,Crystal Palace,Fulham
+7,Chelsea,Leeds United
+7,Burnley,Leicester City
+7,Brighton,Wolverhampton
+7,Aston Villa,Westham United
+7,Liverpool,West Bromwich
+7,Manchaster City,Tottenham Spurs
+7,Manchaster United,Southampton
+7,Newcastle United,Sheffield United
+8,Arsenal,Fulham
+8,Leeds United,Everton
+8,Leicester City,Crystal Palace
+8,Wolverhampton,Chelsea
+8,Westham United,Burnley
+8,West Bromwich,Brighton
+8,Tottenham Spurs,Aston Villa
+8,Southampton,Liverpool
+8,Sheffield United,Manchaster City
+8,Newcastle United,Manchaster United
+9,Leeds United,Arsenal
+9,Fulham,Leicester City
+9,Everton,Wolverhampton
+9,Crystal Palace,Westham United
+9,Chelsea,West Bromwich
+9,Burnley,Tottenham Spurs
+9,Brighton,Southampton
+9,Aston Villa,Sheffield United
+9,Liverpool,Newcastle United
+9,Manchaster City,Manchaster United
+10,Leicester City,Arsenal
+10,Leeds United,Wolverhampton
+10,Fulham,Westham United
+10,Everton,West Bromwich
+10,Crystal Palace,Tottenham Spurs
+10,Chelsea,Southampton
+10,Burnley,Sheffield United
+10,Brighton,Newcastle United
+10,Aston Villa,Manchaster United
+10,Liverpool,Manchaster City
+11,Wolverhampton,Arsenal
+11,Leicester City,Westham United
+11,Leeds United,West Bromwich
+11,Fulham,Tottenham Spurs
+11,Everton,Southampton
+11,Crystal Palace,Sheffield United
+11,Chelsea,Newcastle United
+11,Burnley,Manchaster United
+11,Brighton,Manchaster City
+11,Aston Villa,Liverpool
 12,Arsenal,Westham United
 12,West Bromwich,Wolverhampton
 12,Tottenham Spurs,Leicester City
@@ -119,26 +119,26 @@
 12,Manchaster City,Chelsea
 12,Liverpool,Burnley
 12,Aston Villa,Brighton
-13,West Bromwich,Arsenal
-13,Westham United,Tottenham Spurs
-13,Wolverhampton,Southampton
-13,Leicester City,Sheffield United
-13,Leeds United,Newcastle United
-13,Fulham,Manchaster United
-13,Everton,Manchaster City
-13,Crystal Palace,Liverpool
-13,Chelsea,Aston Villa
-13,Burnley,Brighton
-14,Arsenal,Tottenham Spurs
-14,Southampton,West Bromwich
-14,Sheffield United,Westham United
-14,Newcastle United,Wolverhampton
-14,Manchaster United,Leicester City
-14,Manchaster City,Leeds United
-14,Liverpool,Fulham
-14,Aston Villa,Everton
-14,Brighton,Crystal Palace
-14,Burnley,Chelsea
+13,Arsenal,West Bromwich
+13,Tottenham Spurs,Westham United
+13,Southampton,Wolverhampton
+13,Sheffield United,Leicester City
+13,Newcastle United,Leeds United
+13,Manchaster United,Fulham
+13,Manchaster City,Everton
+13,Liverpool,Crystal Palace
+13,Aston Villa,Chelsea
+13,Brighton,Burnley
+14,Tottenham Spurs,Arsenal
+14,West Bromwich,Southampton
+14,Westham United,Sheffield United
+14,Wolverhampton,Newcastle United
+14,Leicester City,Manchaster United
+14,Leeds United,Manchaster City
+14,Fulham,Liverpool
+14,Everton,Aston Villa
+14,Crystal Palace,Brighton
+14,Chelsea,Burnley
 15,Arsenal,Southampton
 15,Sheffield United,Tottenham Spurs
 15,Newcastle United,West Bromwich
@@ -149,16 +149,16 @@
 15,Brighton,Fulham
 15,Burnley,Everton
 15,Chelsea,Crystal Palace
-16,Sheffield United,Arsenal
-16,Southampton,Newcastle United
-16,Tottenham Spurs,Manchaster United
-16,West Bromwich,Manchaster City
-16,Westham United,Liverpool
-16,Wolverhampton,Aston Villa
-16,Leicester City,Brighton
-16,Leeds United,Burnley
-16,Fulham,Chelsea
-16,Everton,Crystal Palace
+16,Arsenal,Sheffield United
+16,Newcastle United,Southampton
+16,Manchaster United,Tottenham Spurs
+16,Manchaster City,West Bromwich
+16,Liverpool,Westham United
+16,Aston Villa,Wolverhampton
+16,Brighton,Leicester City
+16,Burnley,Leeds United
+16,Chelsea,Fulham
+16,Crystal Palace,Everton
 17,Arsenal,Newcastle United
 17,Manchaster United,Sheffield United
 17,Manchaster City,Southampton
@@ -169,23 +169,23 @@
 17,Chelsea,Leicester City
 17,Crystal Palace,Leeds United
 17,Everton,Fulham
-18,Manchaster United,Arsenal
-18,Newcastle United,Manchaster City
-18,Sheffield United,Liverpool
-18,Southampton,Aston Villa
-18,Tottenham Spurs,Brighton
-18,West Bromwich,Burnley
-18,Westham United,Chelsea
-18,Wolverhampton,Crystal Palace
-18,Leicester City,Everton
-18,Leeds United,Fulham
-19,Arsenal,Manchaster City
-19,Liverpool,Manchaster United
-19,Aston Villa,Newcastle United
-19,Brighton,Sheffield United
-19,Burnley,Southampton
-19,Chelsea,Tottenham Spurs
-19,Crystal Palace,West Bromwich
-19,Everton,Westham United
-19,Fulham,Wolverhampton
-19,Leeds United,Leicester City
+18,Arsenal,Manchaster United
+18,Manchaster City,Newcastle United
+18,Liverpool,Sheffield United
+18,Aston Villa,Southampton
+18,Brighton,Tottenham Spurs
+18,Burnley,West Bromwich
+18,Chelsea,Westham United
+18,Crystal Palace,Wolverhampton
+18,Everton,Leicester City
+18,Fulham,Leeds United
+19,Manchaster City,Arsenal
+19,Manchaster United,Liverpool
+19,Newcastle United,Aston Villa
+19,Sheffield United,Brighton
+19,Southampton,Burnley
+19,Tottenham Spurs,Chelsea
+19,West Bromwich,Crystal Palace
+19,Westham United,Everton
+19,Wolverhampton,Fulham
+19,Leicester City,Leeds United
