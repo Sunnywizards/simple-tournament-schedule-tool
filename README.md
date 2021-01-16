@@ -1,6 +1,8 @@
 # Simple Tournament Schedule Tool
 This is a simple tournament schedule tool and you can use it to generate the race schedule easily.  The algorithm that this tool uses is circle method.
 
+The development environment is Python 3.6.
+
 You can use this tool as the following way,
 
 `python main.py [--loop_num] [--home_away] [--input] [--output_mode] [--output]`
